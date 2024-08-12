@@ -12,7 +12,7 @@ function Navbar() {
     <nav className="bg-white w-full z-20 text-black">
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto px-4 py-2">
         <Heading />
-        <div className="flex md:order-2 space-x-3 md:space-x-0 ">
+        <div className="flex md:order-2 space-x-2 md:space-x-0 items-center">
           <NavLink
             to="#"
             className="black  md:text-xl px-2 py-1 hover:text-yellow-500"
